@@ -1,0 +1,61 @@
+body {
+	background: #3b80db;
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+	background: #ffffff;
+	padding: 20px 0;
+}
+
+.header {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 0px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #C78C19;
+	text-decoration: underline;
+}
+
+.first {
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
+
+.contato {
+    text-align: center;
+}
+
+.second {
+    text-align: center;
+    font-size: 18px;
+}
+
+.about {
+    text-align: center;
+    font-size: 18px;
+}
